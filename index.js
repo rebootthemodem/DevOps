@@ -17,10 +17,10 @@ app.set('views', path.join(__dirname, 'views'));
 // Database configuration
 // Update with your own DB info from azure
 const config = {
-    user: 'week9111-server-admin',
-    password: 'muY6yOkA87$oSQOq',
-    server: 'week9111-server.database.windows.net',
-    database: 'week9111-database',
+    user: 'sirsir',
+    password: 'P@ssw0rd',
+    server: 'sirsir.database.windows.net',
+    database: 'sirsir',
     options: {
         encrypt: true,
         enableArithAbort: true
